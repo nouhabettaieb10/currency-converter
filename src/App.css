@@ -1,0 +1,23 @@
+.curr-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.convert-button {
+  display: flex;
+  justify-items: center;
+  justify-content: center;
+}
+.amount {
+  margin-top: 4px;
+  display: flex;
+  justify-content: center;
+  gap: 4px;
+  padding: 10px;
+}
+.converted-container {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  gap: 10px;
+}
